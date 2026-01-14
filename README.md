@@ -103,28 +103,25 @@ The application allows users to add tasks, set due dates, receive reminders via 
 - Application deployment and API validation  
 
 ---
+
 ## ▶️ How to Run the Project
 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/task-reminder-app.git
+2️⃣ Configure Database
+Update the database configuration in application.properties.
+(You can use MySQL or H2 as per your setup.)
 
----
-## 2️⃣ Configure Database
-
-Update the database configuration in application.properties
-(You can use MySQL or H2 as️as per your setup).
----
-### 3️⃣ Build and Run the Application
+3️⃣ Build and Run the Application
+bash
+Copy code
 mvn spring-boot:run
----
-
-### 4️⃣ Access the APIs
+4️⃣ Access the APIs
+arduino
+Copy code
 http://localhost:8080
----
-
-### 📌 Future Enhancements
-
+📌 Future Enhancements
 Role-based authentication (JWT / OAuth)
 
 UI frontend using React or Angular
@@ -132,9 +129,9 @@ UI frontend using React or Angular
 Push notifications
 
 Analytics dashboard
----
 
-### 👤 Author
-
-Syed Yasmin
+👤 Author
+Sayyad Yasmin
 Java & Spring Boot Developer
+
+---
