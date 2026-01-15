@@ -144,7 +144,7 @@ Java & Spring Boot Developer
 
 ## MIT License
 
-### Copyright (c) [2026] [Sayyad Yasmin]
+### Copyright (c) 2026 Sayyad Yasmin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
