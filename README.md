@@ -69,7 +69,7 @@ The application allows users to add tasks, set due dates, receive reminders via 
 - MySQL / H2 Database  
 - JavaMail API  
 - CSV File Handling  
-- Maven / Gradle  
+- Maven
 
 ---
 
