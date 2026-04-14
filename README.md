@@ -2,7 +2,6 @@
 ## Using Timers, Collections, JDBC & Spring Boot REST APIs
 
 ---
-
 ## 📌 Project Overview
 
 This project is a **Java-based Task Reminder Application** designed to help users manage tasks efficiently through scheduling, reminders, tracking, and reporting. It leverages **core Java concepts** such as collections, concurrency, and timers, along with **Spring Boot** for building secure and scalable RESTful APIs.
